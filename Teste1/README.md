@@ -40,7 +40,7 @@ robot -d ./logs " ".robot
 
 Segundo caso:
 
-É possível fazer a execução do programa, de maneira que não criará a pasta logs, mas terá os arquivos no mesmo diretorio que o .robot:
+É possível fazer a execução do programa de maneira que não criará a pasta logs, mas terá os arquivos no mesmo diretorio que o .robot:
 
 ```
 robot " ".robot

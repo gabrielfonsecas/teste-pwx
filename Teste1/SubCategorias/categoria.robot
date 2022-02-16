@@ -16,7 +16,6 @@ Abrir navegador
     Click Element       ${Dresses}
     Sleep               1
     Close Browser
-
     
 
 

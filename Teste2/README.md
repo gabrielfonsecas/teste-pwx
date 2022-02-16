@@ -10,8 +10,7 @@ robot -d ./logs all.robot
 ```
 `robot` irá chamar o script, `-d ./logs` irá criar uma nova pasta chamada logs neste mesmo diretorio para manter a organização e `all.robot` é o nome do script que será executado.
 
-É possível fazer a execução do programa, de maneira que não criará a pasta logs.
-
+É possível fazer a execução do programa de maneira que não criará a pasta logs, mas terá os arquivos no mesmo diretorio que o .robot:
 ```
 robot all.robot
 ```
