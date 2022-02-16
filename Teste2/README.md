@@ -2,7 +2,7 @@
 
 ## Teste 2
  
-Esta ferramenta é usada para abrir o iniciar do windows, fazer a busca do bloco de notas, após localizado, abri-lo e digitar o seguinte texto: "PWX Tecnologia", em seguida checar se está escrito corretamente no bloco, fecha-lo e não salva-lo.
+Esta ferramenta é usada no Robot Framework com a biblioteca Sikuli, para abrir o iniciar do windows, fazer a busca do bloco de notas, após localizado, abri-lo e digitar o seguinte texto: "PWX Tecnologia", em seguida checar se está escrito corretamente no bloco, fecha-lo e não salva-lo.
 
 Para fazer a inicialização do sistema é necessário abrir o console e digitar: 
 ```
