@@ -4,7 +4,7 @@
  
 Estas ferramentas são utilizadas para fazer determinadas buscas no Google Chrome, com a biblioteca Selenium no Robot Framework:
 
-A primeira parte do teste:
+### A primeira parte do teste:
 ```
  1.Acessar a home do site: http://automationpractice.com 
  2.Digitar o nome do produto "Blouse" no campo de pesquisa
@@ -12,7 +12,7 @@ A primeira parte do teste:
 ```
 *A resposta da ferramenta será a exibição do produto "Blouse".*
 
-A segunda parte do teste:
+### A segunda parte do teste:
 
 ```
  1.Acessar a home do site: http://automationpractice.com 
@@ -21,7 +21,7 @@ A segunda parte do teste:
 ```
 *A resposta da ferramenta será a exibição da menssagem "No results were found for your search "prodNãoExistente"".*
 
-A terceira parte do teste:
+### A terceira parte do teste:
 
 ```
  1.Acessar a home do site: http://automationpractice.com 
